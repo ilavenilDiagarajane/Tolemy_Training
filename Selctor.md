@@ -15,7 +15,8 @@ It is an pattern to style the element and it tell the browser which html element
 7. Combinators Selector
 8. Pseudo-class
 9. Pseudo-element
-   > #### Element Selector
+
+> #### Element Selector
 
 Element selctor will select the _all html element_ of node.
 
@@ -199,8 +200,8 @@ input:focus {
 ```
 
 > #### Pseudo-elements
->
-> pseudo-element is a keyword added to a selector that lets you style a specific part of the selected elements.
+
+ pseudo-element is a keyword added to a selector that lets you style a specific part of the selected elements.
 
 ```css
 p::first-line {
